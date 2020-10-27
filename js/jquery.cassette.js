@@ -167,7 +167,7 @@
 			
 			this.$controls 	= $( '<ul class="vc-controls" style="display:none;"/>' );
 			
-			this.$cPlay		= $( '<li class="vc-control-play">Play<span></span></li>' );
+			this.$cPlay		= $( '<li class="vc-control-play">Play<span></span></li>' ); 
 			this.$cRewind	= $( '<li class="vc-control-rewind">Rew<span></span></li>' );
 			this.$cForward	= $( '<li class="vc-control-fforward">FF<span></span></li>' );
 			this.$cStop		= $( '<li class="vc-control-stop">Stop<span></span></li>' );
