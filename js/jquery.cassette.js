@@ -165,7 +165,8 @@
 
 			var _self		= this;
 			
-			this.$controls 	= $( '<ul class="vc-controls" style="display:none;"/>' );
+			// this.$controls 	= $( '<ul class="vc-controls" style="display:none;"/>' );
+			this.$controls 	= $( '<ul class="vc-controls""/>' );
 			
 			this.$cPlay		= $( '<li class="vc-control-play">Play<span></span></li>' ); 
 			this.$cRewind	= $( '<li class="vc-control-rewind">Rew<span></span></li>' );
