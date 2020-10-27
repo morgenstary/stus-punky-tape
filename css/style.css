@@ -34,7 +34,7 @@
 	left: 50%;
 	margin: -15px 0 0 -15px;
 	background: transparent url(../images/ajax-loader.gif) no-repeat center center;
-	display: none;
+	/* display: none; */
 }
 .vc-tape-back{
 	width: 100%;
